@@ -1,5 +1,14 @@
+[Adblock Plus 2.0]
+! Title: Pratap Custom
+! Author: Pratap
+! Version: 1.0
+! Expires: 1 days
+!----------------------------------------------------------------------------------------------------!
+! Pratap custom filters
+!----------------------------------------------------------------------------------------------------!
 @@||indiatimes.com/*ad$script,domain=indiatimes.com
 @@||timesofindia.com/*ad$script,domain=timesofindia.com
+@@||m.timesofindia.com/*ad$script,domain=m.timesofindia.com
 @@||hindustantimes.com/*ad$script,domain=hindustantimes.com
 @@||blockadblock.com/*ad$script,domain=blockadblock.com
 @@||ndtv.com/*ad$script,domain=ndtv.com
