@@ -6,9 +6,14 @@
 !----------------------------------------------------------------------------------------------------!
 ! Pratap custom filters
 !----------------------------------------------------------------------------------------------------!
+
+! times of india
 @@||indiatimes.com/*ad$script,domain=indiatimes.com
 @@||timesofindia.com/*ad$script,domain=timesofindia.com
 @@||m.timesofindia.com/*ad$script,domain=m.timesofindia.com
+@@||m.timesofindia.com/*ad$script,domain=m.timesofindia.com
+http://m.timesofindia.com/ads_js.cms*$script
+
 @@||hindustantimes.com/*ad$script,domain=hindustantimes.com
 @@||blockadblock.com/*ad$script,domain=blockadblock.com
 @@||ndtv.com/*ad$script,domain=ndtv.com
