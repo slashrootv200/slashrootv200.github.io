@@ -1,0 +1,7 @@
+@@||indiatimes.com/*ad$script,domain=indiatimes.com
+@@||timesofindia.com/*ad$script,domain=timesofindia.com
+@@||hindustantimes.com/*ad$script,domain=hindustantimes.com
+@@||blockadblock.com/*ad$script,domain=blockadblock.com
+@@||ndtv.com/*ad$script,domain=ndtv.com
+@@||www.ndtv.com/*ad$script,domain=www.ndtv.com
+@@||financialexpress.com$script,domain=indianexpress.com
